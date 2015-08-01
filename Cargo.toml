@@ -1,0 +1,6 @@
+[package]
+name = "dojo"
+version = "0.1.0"
+authors = ["Bailey Cosier <bailey.cosier@gmail.com>"]
+license = "MIT"
+description = "dojo: wip placeholder"
